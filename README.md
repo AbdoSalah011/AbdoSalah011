@@ -1,14 +1,14 @@
 <div align="center">
   
 <!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile;Passionate+Developer;Creative+Problem+Solver;Continuous+Learner" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile;.NET+Backend+Developer;Clean+Architecture+Enthusiast;Problem+Solver" alt="Typing Animation" />
 
 <!-- Animated GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
 
 <!-- Profile Views Counter -->
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=AbdoSalah011&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 </div>
@@ -17,46 +17,32 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer who loves to create innovative solutions and explore new technologies. I enjoy turning complex problems into simple, beautiful designs.
+I'm a passionate .NET backend developer with expertise in building scalable RESTful APIs and implementing Clean Architecture principles. I enjoy transforming complex problems into elegant, efficient solutions.
 
-- 🔭 I’m currently working on **{Your Current Project}**
-- 🌱 I’m currently learning **{Technologies You're Learning}**
-- 👯 I’m looking to collaborate on **{Type of Projects}**
-- 🤔 I’m looking for help with **{Areas Where You Need Help}**
-- 💬 Ask me about **{Your Expertise}**
-- 📫 How to reach me: **{Your Email}**
-- ⚡ Fun fact: **{Interesting Fact About You}**
+- 🔭 I'm currently working on **meadak**
+- 🌱 I'm currently learning **.NET, Clean Architecture, and advanced backend patterns**
+- 👯 I'm looking to collaborate on **RESTful APIs, Portfolio Websites, and E-commerce Platforms**
+- 📫 How to reach me: **s.abdulrahmanamin@gmail.com**
+- ⚡ Fun fact: *I can stay focused coding for hours, but I sometimes forget my coffee gets cold before I finish it*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Databases
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-45B8D8?style=for-the-badge&logo=architecture&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6D00?style=for-the-badge&logo=oop&logoColor=white)
 
 ---
 
@@ -65,13 +51,13 @@ I'm a passionate developer who loves to create innovative solutions and explore 
 <div align="center">
   
 <!-- GitHub Stats with Animation -->
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdoSalah011&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
   
 <!-- Most Used Languages with Animation -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Most Used Languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoSalah011&layout=compact&theme=radical" alt="Most Used Languages" height="180" />
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoSalah011&theme=radical" alt="GitHub Streak" height="180" />
 
 </div>
 
@@ -81,7 +67,7 @@ I'm a passionate developer who loves to create innovative solutions and explore 
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=AbdoSalah011&theme=radical&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -90,7 +76,20 @@ I'm a passionate developer who loves to create innovative solutions and explore 
 ## 📈 Activity Graph
 
 <!-- GitHub Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abdulrahman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdoSalah011&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🤝 Areas Where I'd Love Help
+
+I'm actively seeking guidance in:
+
+- **Advanced .NET Core & React/Flutter concepts**
+- **Database optimization and query performance**
+- **API security, authentication, and authorization**
+- **Structuring scalable backend systems**
+- **CI/CD pipelines and cloud hosting (AWS, Azure, GCP)**
+- **Career growth and technical interview preparation**
 
 ---
 
@@ -98,10 +97,11 @@ I'm a passionate developer who loves to create innovative solutions and explore 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahmansalah025)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdoSalah011)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdo.salah.118592)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdo.s.amin/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.abdulrahmanamin@gmail.com)
 
 </div>
 
@@ -109,8 +109,8 @@ I'm a passionate developer who loves to create innovative solutions and explore 
 
 <div align="center">
   
-### ⭐️ From [Your Name]
+### ⭐️ From Abdulrahman Salah
   
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AbdoSalah011/AbdoSalah011/blob/output/github-contribution-grid-snake.svg)
 
 </div>
