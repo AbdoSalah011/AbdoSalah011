@@ -1,10 +1,10 @@
 <div align="center">
   
 <!-- Animated Typing SVG -->
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile;.NET+Backend+Developer;Clean+Architecture+Enthusiast;Problem+Solver](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Abdulrahman+Salah;.NET+Backend+Developer;Clean+Architecture+Specialist)" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Abdulrahman+Salah;.NET+Backend+Developer;Clean+Architecture+Specialist" alt="Typing Animation" />
 
 <!-- Animated GIF -->
-<img src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)" width="300" alt="Coding Animation">
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Coding Animation">
 
 <!-- Profile Views Counter -->
 <p align="center"> 
