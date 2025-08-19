@@ -93,33 +93,6 @@ I'm actively seeking guidance in:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🔥 [Project Name](https://github.com/AbdoSalah011/project-url)
-Short description of your featured project
-
-### 🌟 [Another Project](https://github.com/AbdoSalah011/project-url)
-Short description of another project
-
-</div>
-
----
-
-## 📊 Coding Activity
-
-<!-- WakaTime Stats (if you use it) -->
-<!--
-<div align="center">
-  
-[![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-username)
-  
-</div>
--->
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -136,10 +109,10 @@ Short description of another project
 
 <div align="center">
   
-### 💻 Coding Journey
+## 💻 Coding Journey
   
 ![Snake animation](https://github.com/AbdoSalah011/AbdoSalah011/blob/output/github-contribution-grid-snake.svg)
 
-<p>Made with ❤️ by Abdulrahman Salah</p>
+**Made with ❤️ by Abdulrahman Salah**
 
 </div>
