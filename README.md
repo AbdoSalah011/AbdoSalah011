@@ -29,20 +29,56 @@ I'm a passionate .NET backend developer with expertise in building scalable REST
 
 ## 🛠️ Tech Stack
 
-### Backend Development
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+### 🔧 Backend Development
+**Languages:**
+![C#](https://img.shields.io/badge/C%23-Advanced-239120?style=flat&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-Intermediate-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Basics-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-Intermediate-4D97FF?style=flat&logo=scratch&logoColor=white)
 
-### Databases
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**Frameworks:**
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-### Tools & Practices
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-45B8D8?style=for-the-badge&logo=architecture&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-FF6D00?style=for-the-badge&logo=oop&logoColor=white)
+**API Development:**
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logo=api&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
+
+### 🗄️ Databases
+**SQL Databases:**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+**ORMs:**
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+**Querying:**
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+### ⚙️ Tools & Practices
+**Version Control:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+**Architecture & Patterns:**
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-45B8D8?style=flat)
+![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-FF6D00?style=flat)
+![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-009688?style=flat)
+
+**Development Practices:**
+![OOP](https://img.shields.io/badge/OOP-FF6D00?style=flat)
+![Agile](https://img.shields.io/badge/Agile-009688?style=flat&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrum&logoColor=white)
+
+### 🛠️ Other Tools & Skills
+**API Tools:**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapi-initiative&logoColor=white)
+
+**IDEs:**
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
