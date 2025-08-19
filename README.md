@@ -1,61 +1,17 @@
 <div align="center">
-  
-# 👋 Hello, I'm Abdulrahman Salah
-
-### 🎯 .NET Backend Developer | Clean Architecture Enthusiast
-
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250" alt="Developer GIF">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=AbdoSalah011&color=blue&style=flat-square)](https://github.com/AbdoSalah011)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Abdulrahman+Salah;.NET+Backend+Developer;Clean+Architecture+Specialist" alt="Typing Animation" />
+  <br/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Coding Animation">
 </div>
 
 ---
 
-## 📌 Quick Overview
-
-- 🏢 **Currently Working On**: meadak
-- 📚 **Learning**: .NET, Clean Architecture, Advanced Backend Patterns  
-- 🤝 **Looking to Collaborate**: RESTful APIs, Portfolio Websites, E-commerce Platforms
-- 📧 **Email**: s.abdulrahmanamin@gmail.com
-- ⚡ **Fun Fact**: I can stay focused coding for hours, but I sometimes forget my coffee gets cold
-
----
-
-## 🎯 Technical Expertise
-
-### Backend Development
-| **Languages** | **Frameworks** | **API Development** |
-|:-------------:|:--------------:|:------------------:|
-| C# (Advanced) | .NET Core | REST API |
-| C (Intermediate) | ASP.NET MVC | gRPC |
-| C++ (Basics) | Entity Framework |  |
-| Scratch (Intermediate) |  |  |
-
-### Database Technologies
-| **SQL Databases** | **ORMs** | **Querying** |
-|:----------------:|:--------:|:-----------:|
-| SQL Server | Entity Framework | LINQ |
-
-### Development Ecosystem
-| **Tools** | **Architecture** | **Practices** |
-|:---------:|:---------------:|:------------:|
-| Git | Clean Architecture | OOP |
-| GitHub | Dependency Injection | SOLID Principles |
-| Postman |  | Agile |
-| Swagger |  | Scrum |
-| Visual Studio |  |  |
-| VS Code |  |  |
-
----
-
-## 📈 GitHub Performance
-
-<div align="center">
-
-```metrics
-| **Statistic** | **Value** |
-|:-------------:|:---------:|
-| Total Contributions | ![Total Contributions](https://badges.pufler.dev/commits/all/AbdoSalah011?color=blue) |
-| Repository Views | ![Repository Views](https://badges.pufler.dev/views/AbdoSalah011/AbdoSalah011?color=green) |
-| Years Coding | ![Years Coding](https://badges.pufler.dev/years/AbdoSalah011?color=purple) |
+### 🚀 About Me
+```python
+class AbdulrahmanSalah:
+    def __init__(self):
+        self.current_work = "meadak"
+        self.current_learning = [".NET", "Clean Architecture", "Advanced Backend Patterns"]
+        self.collaboration_interests = ["RESTful APIs", "Portfolio Websites", "E-commerce Platforms"]
+        self.email = "s.abdulrahmanamin@gmail.com"
+        self.fun_fact = "I can code for hours but forget my coffee gets cold"
