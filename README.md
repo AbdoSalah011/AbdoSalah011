@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile;.NET+Backend+Developer;Clean+Architecture+Enthusiast;Problem+Solver" alt="Typing Animation" />
 
 <!-- Animated GIF -->
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="Coding Animation">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding Animation">
 
 <!-- Profile Views Counter -->
 <p align="center"> 
