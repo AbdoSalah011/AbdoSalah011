@@ -60,22 +60,22 @@
 
 ```typescript
 const developer = {
-  name:       "YOUR NAME",           // ✏️ Edit
+  name:       "Abdulrahman Salah",          
   role:       "Full Stack Developer",
-  location:   "Your City, Country",  // ✏️ Edit
+  location:   "Cairo, Egypt",  
   
   expertise:  ["Backend APIs", "Frontend SPAs",
                "Cloud Architecture", "AI Integration"],
   
-  backend:    [".NET Core", "ASP.NET Web API", "C#", "Node.js"],
+  backend:    [".NET Core", "ASP.NET Web API", "C#"],
   frontend:   ["Angular", "TypeScript", "Tailwind CSS"],
-  databases:  ["SQL Server", "MySQL", "MongoDB"],
+  databases:  ["SQL Server"],
   
   currentFocus: "Building production-grade SaaS products",
-  learning:     "AI/ML integration in web applications",
+  learning:     "AI integration in web applications",
   
   funFact:    "I refactor code the way others redecorate rooms — obsessively.",
-  available:  true,   // ✏️ Set to false when not open to opportunities
+  available:  true,   
 };
 ```
 
