@@ -23,7 +23,7 @@
 <div align="center">
 
 <!-- ✏️ Replace with your own banner. Generate one at: https://capsule-render.vercel.app -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a84ff,100:00d4aa&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20.NET%20%26%20Angular%20Engineer&descColor=a0cfff&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://github.com/AbdoSalah011/AbdoSalah011/blob/main/abdulrahman_github_banner.svg" width="100%" alt="Abdulrahman Salah — Full Stack Developer Banner"/>
 
 <!-- ✏️ Typing animation — edit the lines= param to change what it types -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;.NET+Core+%26+Angular+Engineer+%E2%9A%A1;Building+Scalable+Web+Applications;Clean+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;AI+Integration+%26+Modern+UI%2FUX;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
