@@ -31,10 +31,10 @@
 <br/>
 
 <!-- Profile badge row -->
-<!-- ✏️ Replace YOUR_USERNAME in all badge/widget URLs throughout this file -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0a84ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00d4aa&labelColor=0d1117&label=FOLLOWERS)](https://github.com/YOUR_USERNAME?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=ffd700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/YOUR_USERNAME)
+<!-- ✏️ Replace AbdoSalah011 in all badge/widget URLs throughout this file -->
+![Profile Views](https://komarev.com/ghpvc/?username=AbdoSalah011&color=0a84ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub Followers](https://img.shields.io/github/followers/AbdoSalah011?style=for-the-badge&color=00d4aa&labelColor=0d1117&label=FOLLOWERS)](https://github.com/AbdoSalah011?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/AbdoSalah011?style=for-the-badge&color=ffd700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/AbdoSalah011)
 
 <br/>
 
@@ -186,7 +186,7 @@ const developer = {
 
 <!-- ═══════════════════════════════════════════════════════════════
      GITHUB ANALYTICS SECTION
-     ✏️ Replace YOUR_USERNAME in every widget URL below
+     ✏️ Replace AbdoSalah011 in every widget URL below
      ✏️ Change theme= to any of: radical, merko, gruvbox, tokyonight,
          onedark, cobalt, synthwave, highcontrast, dracula
      ═══════════════════════════════════════════════════════════════ -->
@@ -201,9 +201,9 @@ const developer = {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=0a84ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9"/>
+<a href="https://github.com/AbdoSalah011">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdoSalah011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=0a84ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoSalah011&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9"/>
 </a>
 
 </div>
@@ -212,8 +212,8 @@ const developer = {
 
 <div align="center">
 
-<!-- ✏️ Replace YOUR_USERNAME for streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=0a84ff&currStreakLabel=00d4aa" alt="GitHub Streak Stats"/>
+<!-- ✏️ Replace AbdoSalah011 for streak stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoSalah011&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=0a84ff&currStreakLabel=00d4aa" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -221,8 +221,8 @@ const developer = {
 
 <div align="center">
 
-<!-- Activity Graph — ✏️ Replace YOUR_USERNAME, change theme if desired -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=00d4aa&line=0a84ff&point=ffffff&hide_border=true" width="95%" alt="Activity Graph"/>
+<!-- Activity Graph — ✏️ Replace AbdoSalah011, change theme if desired -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdoSalah011&theme=tokyo-night&bg_color=0d1117&color=00d4aa&line=0a84ff&point=ffffff&hide_border=true" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -230,8 +230,8 @@ const developer = {
 
 <div align="center">
 
-<!-- GitHub Trophies — ✏️ Replace YOUR_USERNAME, change theme if desired -->
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
+<!-- GitHub Trophies — ✏️ Replace AbdoSalah011, change theme if desired -->
+<img src="https://github-profile-trophy.vercel.app/?username=AbdoSalah011&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
 
 </div>
 
@@ -248,7 +248,7 @@ const developer = {
 
 ## 🚀 &nbsp;Featured Projects
 
-*A selection of projects I'm proud of. Full list on my [repositories page](https://github.com/YOUR_USERNAME?tab=repositories).*
+*A selection of projects I'm proud of. Full list on my [repositories page](https://github.com/AbdoSalah011?tab=repositories).*
 
 </div>
 
@@ -283,7 +283,7 @@ A full-featured e-commerce solution with product catalog, cart, secure checkout,
 
 <div align="center">
   <!-- ✏️ Replace repo and demo links -->
-  <a href="https://github.com/YOUR_USERNAME/ecommerce-platform">
+  <a href="https://github.com/AbdoSalah011/ecommerce-platform">
     <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github"/>
   </a>
   &nbsp;
@@ -318,7 +318,7 @@ An intelligent web application integrating LLM APIs for smart content generation
 
 <div align="center">
   <!-- ✏️ Replace repo and demo links -->
-  <a href="https://github.com/YOUR_USERNAME/ai-web-app">
+  <a href="https://github.com/AbdoSalah011/ai-web-app">
     <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github"/>
   </a>
   &nbsp;
@@ -356,7 +356,7 @@ A production-grade RESTful API built with ASP.NET Core, featuring JWT authentica
 
 <div align="center">
   <!-- ✏️ Replace repo and demo links -->
-  <a href="https://github.com/YOUR_USERNAME/rest-api-system">
+  <a href="https://github.com/AbdoSalah011/rest-api-system">
     <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github"/>
   </a>
   &nbsp;
@@ -391,7 +391,7 @@ A data-rich analytics dashboard with real-time charts, KPI widgets, role-based a
 
 <div align="center">
   <!-- ✏️ Replace repo and demo links -->
-  <a href="https://github.com/YOUR_USERNAME/analytics-dashboard">
+  <a href="https://github.com/AbdoSalah011/analytics-dashboard">
     <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github"/>
   </a>
   &nbsp;
@@ -482,15 +482,15 @@ A data-rich analytics dashboard with real-time charts, KPI widgets, role-based a
 <br/>
 
 <!-- ✏️ Replace href values with your actual profile links -->
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:s.abdulrahmanamin@gmail.com@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/eng-abdulrahmansalah">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/AbdoSalah011">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
@@ -498,11 +498,11 @@ A data-rich analytics dashboard with real-time charts, KPI widgets, role-based a
   <img src="https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/YOUR_TWITTER">
+<a href="https://twitter.com/Dev_AbdoSalah">
   <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
 </a>
 &nbsp;
-<a href="https://discord.com/users/YOUR_DISCORD">
+<a href="https://discord.com/users/abdulrahmansalah025">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
@@ -561,7 +561,7 @@ A data-rich analytics dashboard with real-time charts, KPI widgets, role-based a
 <br/>
 
 <!-- ✏️ Optional: Spotify Now Playing widget -->
-<!-- Uncomment this block and replace YOUR_USERNAME with your Spotify username -->
+<!-- Uncomment this block and replace AbdoSalah011 with your Spotify username -->
 <!--
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify Now Playing"/>
@@ -584,7 +584,7 @@ A data-rich analytics dashboard with real-time charts, KPI widgets, role-based a
 
 <!--
   SETUP INSTRUCTIONS FOR SNAKE ANIMATION:
-  1. In your GitHub profile repo (YOUR_USERNAME/YOUR_USERNAME), create:
+  1. In your GitHub profile repo (AbdoSalah011/AbdoSalah011), create:
      .github/workflows/snake.yml
   2. Paste this workflow content:
 
@@ -610,16 +610,16 @@ A data-rich analytics dashboard with real-time charts, KPI widgets, role-based a
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  3. After the workflow runs, replace YOUR_USERNAME below.
+  3. After the workflow runs, replace AbdoSalah011 below.
 -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+    srcset="https://raw.githubusercontent.com/AbdoSalah011/AbdoSalah011/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+    srcset="https://raw.githubusercontent.com/AbdoSalah011/AbdoSalah011/output/github-contribution-grid-snake.svg"/>
   <img alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+    src="https://raw.githubusercontent.com/AbdoSalah011/AbdoSalah011/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -634,12 +634,12 @@ A data-rich analytics dashboard with real-time charts, KPI widgets, role-based a
 
 <div align="center">
 
-<!-- ✏️ Replace YOUR_NAME in the footer banner -->
+<!-- ✏️ Replace Abdulrahman Salah in the footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0a84ff,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%" alt="footer"/>
 
 <br/>
 
-**Built with ❤️ by [YOUR_NAME](https://github.com/YOUR_USERNAME)**
+**Built with ❤️ by [Abdulrahman Salah](https://github.com/AbdoSalah011)**
 
 *⭐ If you found this profile README useful, consider giving it a star!*
 
@@ -651,9 +651,9 @@ A data-rich analytics dashboard with real-time charts, KPI widgets, role-based a
 ╔══════════════════════════════════════════════════════════════════╗
 ║              QUICK CUSTOMIZATION CHECKLIST                       ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  [ ] Replace YOUR_USERNAME with your GitHub username             ║
-║  [ ] Replace YOUR_NAME with your full name                       ║
-║  [ ] Replace YOUR_EMAIL@gmail.com with your email                ║
+║  [ ] Replace AbdoSalah011 with your GitHub username             ║
+║  [ ] Replace Abdulrahman Salah with your full name                       ║
+║  [ ] Replace s.abdulrahmanamin@gmail.com@gmail.com with your email                ║
 ║  [ ] Replace YOUR_LINKEDIN with your LinkedIn slug               ║
 ║  [ ] Replace YOUR_TWITTER with your Twitter handle               ║
 ║  [ ] Replace YOUR_DISCORD with your Discord user ID              ║
