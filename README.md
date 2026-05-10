@@ -391,6 +391,7 @@ using Standalone Components, Signals, lazy-loaded routes, a custom
 `TranslatePipe`, and a `RevealDirective` powered by `IntersectionObserver`.
 
 **Tech Stack:**
+
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -399,34 +400,6 @@ using Standalone Components, Signals, lazy-loaded routes, a custom
 
 [![REPOSITORY](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/AbdoSalah011/hima-ac_portfolio)
 [![LIVE DEMO](https://img.shields.io/badge/🚀_LIVE_DEMO-00B4D8?style=for-the-badge)](https://hima-ac.vercel.app/)
-
-<!--### 🗃️ HIMA-AC Portfolio
-
-<img src="https://img.shields.io/badge/Status-Live-00d4aa?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Type%20-%20Frontend-green?style=flat"/>
-
-</div>
-
-A data-rich analytics dashboard with real-time charts, KPI widgets, role-based access control, and dark/light mode. Ideal for SaaS admin panels and business intelligence.
-
-**Tech Stack:**
-
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-<div align="center">
-  <a href="https://github.com/AbdoSalah011/analytics-dashboard">
-    <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github"/>
-  </a>
-  &nbsp;
-  <a href="https://your-demo-link.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-00d4aa?style=for-the-badge"/>
-  </a>
-</div>
--->
 
 </td>
 </tr>
