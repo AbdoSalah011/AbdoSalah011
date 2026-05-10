@@ -177,7 +177,7 @@ const developer = {
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![N8N](https://img.shields.io/badge/n8n-darkgreen?style=for-the-badge&logo=netlify&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-darkgreen?style=for-the-badge&logo=n8n&logoColor=white)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
