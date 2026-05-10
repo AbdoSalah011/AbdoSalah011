@@ -149,8 +149,8 @@ const developer = {
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<!--![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)-->
+<!--![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)-->
 
 </div>
 
@@ -159,8 +159,8 @@ const developer = {
 <div align="center">
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<!--![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)-->
+<!--![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) -->
 
 </div>
 
@@ -177,7 +177,7 @@ const developer = {
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
+![N8N](https://img.shields.io/badge/n8n-darkgreen?style=flat)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -372,11 +372,39 @@ A production-grade RESTful API built with ASP.NET Core, featuring JWT authentica
 
 <div align="center">
 
-### 📊 Analytics Dashboard
+## 🌬️ HIMA AC — Professional HVAC Portfolio
+
+![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+![Type](https://img.shields.io/badge/Type-Frontend-blue)
+![Angular](https://img.shields.io/badge/Angular-21-red?logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?logo=typescript)
+![CSS3](https://img.shields.io/badge/CSS3-Variables-1572B6?logo=css3)
+
+</div>
+
+A fully branded, bilingual **(Arabic / English)** portfolio website for a
+professional HVAC business in Cairo, Egypt. Supports **RTL/LTR switching**,
+**dark/light mode**, scroll-reveal animations, floating snowflake particles,
+portfolio lightbox, and a testimonials slider. Originally built as a single
+HTML/CSS/JS file, then refactored into a clean **Angular 21** application
+using Standalone Components, Signals, lazy-loaded routes, a custom
+`TranslatePipe`, and a `RevealDirective` powered by `IntersectionObserver`.
+
+**Tech Stack:**
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Angular Signals](https://img.shields.io/badge/-Angular%20Signals-9C27B0?logo=angular&logoColor=white)
+
+[![REPOSITORY](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/AbdoSalah011/hima-ac_portfolio)
+[![LIVE DEMO](https://img.shields.io/badge/🚀_LIVE_DEMO-00B4D8?style=for-the-badge)](https://hima-ac.vercel.app/)
+
+<!--### 🗃️ HIMA-AC Portfolio
 
 <img src="https://img.shields.io/badge/Status-Live-00d4aa?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Type-Full%20Stack-0a84ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type%20-%20Frontend-green?style=flat"/>
 
 </div>
 
@@ -390,7 +418,6 @@ A data-rich analytics dashboard with real-time charts, KPI widgets, role-based a
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 <div align="center">
-  <!-- ✏️ Replace repo and demo links -->
   <a href="https://github.com/AbdoSalah011/analytics-dashboard">
     <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github"/>
   </a>
@@ -399,6 +426,7 @@ A data-rich analytics dashboard with real-time charts, KPI widgets, role-based a
     <img src="https://img.shields.io/badge/🌐_Live_Demo-00d4aa?style=for-the-badge"/>
   </a>
 </div>
+-->
 
 </td>
 </tr>
