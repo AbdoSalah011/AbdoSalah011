@@ -495,7 +495,7 @@ using Standalone Components, Signals, lazy-loaded routes, a custom
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://YOUR_PORTFOLIO.com">
+<a href="https://journey-to-fullstack.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
 </a>
 &nbsp;
