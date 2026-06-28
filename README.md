@@ -261,38 +261,41 @@ const developer = {
 
 <!-- ── PROJECT 1 ─────────────────────────────────────── -->
 <td width="50%" valign="top">
-
 <div align="center">
 
-### 🛒 E-Commerce Platform
+## 🌸 Flower Bloom Store — Enterprise E-Commerce Platform
 
-<img src="https://img.shields.io/badge/Status-Live-00d4aa?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Type-Full%20Stack-0a84ff?style=flat-square"/>
+![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+![Type](https://img.shields.io/badge/Type-Full%20Stack-orange)
+![.NET](https://img.shields.io/badge/.NET%20Core-MVC-512BD4?logo=dotnet)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-CC2927?logo=microsoftsqlserver)
+![Team](https://img.shields.io/badge/Team-5%20Devs-blueviolet)
 
 </div>
 
-A full-featured e-commerce solution with product catalog, cart, secure checkout, order management, and admin dashboard. Built for performance and scale.
+A full-stack **e-commerce platform** built with **ASP.NET Core MVC** using
+a professional **Clean Architecture** approach (Web, Application, Domain,
+and Infrastructure layers) to simulate real-world enterprise development.
+Customers can browse flower collections, place customized orders, and
+schedule deliveries, while admins manage products, orders, and delivery
+tracking. Built with **role-based authorization** (Admin / Customer /
+Delivery) via **ASP.NET Identity**, **Repository & Service patterns**,
+**Dependency Injection**, and a collaborative **Git workflow** with feature
+branches and pull requests across a 5-person development team.
 
 **Tech Stack:**
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![ASP.NET Core MVC](https://img.shields.io/badge/-ASP.NET%20Core%20MVC-512BD4?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/-EF%20Core-512BD4?logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Identity](https://img.shields.io/badge/-ASP.NET%20Identity-512BD4?logo=dotnet&logoColor=white)
 
-<div align="center">
-  <!-- ✏️ Replace repo and demo links -->
-  <a href="https://github.com/AbdoSalah011/ecommerce-platform">
-    <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github"/>
-  </a>
-  &nbsp;
-  <a href="https://your-demo-link.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-00d4aa?style=for-the-badge"/>
-  </a>
-</div>
+[![REPOSITORY](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/AbdoSalah011/FlowerBloomStore)
+[![LIVE DEMO](https://img.shields.io/badge/🚀_LIVE_DEMO-00B4D8?style=for-the-badge)](https://flora-store.runasp.net/Home)
 
 </td>
+
 
 <!-- ── PROJECT 2 ─────────────────────────────────────── -->
 <td width="50%" valign="top">
