@@ -337,34 +337,29 @@ mobile-first layout with keyboard shortcuts for power users.
 
 <!-- ── PROJECT 3 ─────────────────────────────────────── -->
 <td width="50%" valign="top">
-
 <div align="center">
 
-### 🔌 REST API System
+### 🗂️ Project & Task Management API
 
-<img src="https://img.shields.io/badge/Status-Live-00d4aa?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Completed-00d4aa?style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Type-Backend-0a84ff?style=flat-square"/>
 
 </div>
 
-A production-grade RESTful API built with ASP.NET Core, featuring JWT authentication, rate limiting, logging middleware, Swagger docs, and Clean Architecture patterns.
+A production-quality REST API for managing Projects and Tasks, built with **.NET 9**, **Clean Architecture**, **CQRS + MediatR**, and **ASP.NET Core Identity + JWT Authentication**. Features rotating refresh tokens, role-based ownership enforcement (Admin/Member), URL-segment API versioning, a generic response wrapper, and FluentValidation pipeline behaviors — built as a technical assessment for a Backend .NET Developer role.
 
 **Tech Stack:**
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet)
+![.NET 9](https://img.shields.io/badge/-.NET_9-512BD4?style=flat-square&logo=dotnet)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MediatR](https://img.shields.io/badge/-CQRS_%2F_MediatR-2088FF?style=flat-square)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 <div align="center">
-  <!-- ✏️ Replace repo and demo links -->
-  <a href="https://github.com/AbdoSalah011/rest-api-system">
+  <a href="https://github.com/AbdoSalah011/ProjectManagementApp">
     <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github"/>
-  </a>
-  &nbsp;
-  <a href="https://your-api-docs-link.com">
-    <img src="https://img.shields.io/badge/📖_API_Docs-00d4aa?style=for-the-badge"/>
   </a>
 </div>
 
