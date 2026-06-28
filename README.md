@@ -296,36 +296,36 @@ A full-featured e-commerce solution with product catalog, cart, secure checkout,
 
 <!-- ── PROJECT 2 ─────────────────────────────────────── -->
 <td width="50%" valign="top">
-
 <div align="center">
 
-### 🤖 AI Web Application
+## ⚡ DevIgniter AI Studio
 
-<img src="https://img.shields.io/badge/Status-Live-00d4aa?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Type-AI%20%2F%20SaaS-0a84ff?style=flat-square"/>
+![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+![Type](https://img.shields.io/badge/Type-Frontend-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2020-yellow?logo=javascript)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?logo=openai)
+![CSS3](https://img.shields.io/badge/CSS3-Design%20System-1572B6?logo=css3)
 
 </div>
 
-An intelligent web application integrating LLM APIs for smart content generation, summarization, and natural language processing — wrapped in a sleek Angular UI.
+A premium **AI chatbot SaaS interface** featuring chat, image generation,
+vision analysis, and voice features. Powered by **GPT-4o-mini** for streaming
+chat with markdown rendering, **DALL·E 3** for image generation, **Vision**
+analysis via drag-and-drop image upload, **Whisper-1** for speech-to-text,
+and **OpenAI TTS** for voice responses. Includes persistent chat management
+via `localStorage`, dark/light theme switching, and a fully responsive
+mobile-first layout with keyboard shortcuts for power users.
 
 **Tech Stack:**
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?logo=openai&logoColor=white)
+![LocalStorage](https://img.shields.io/badge/-LocalStorage-FF9900?logo=html5&logoColor=white)
 
-<div align="center">
-  <!-- ✏️ Replace repo and demo links -->
-  <a href="https://github.com/AbdoSalah011/ai-web-app">
-    <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github"/>
-  </a>
-  &nbsp;
-  <a href="https://your-demo-link.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-00d4aa?style=for-the-badge"/>
-  </a>
-</div>
+[![REPOSITORY](https://img.shields.io/badge/🐙_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/AbdoSalah011/DevIgniter-AI-Chatbot)
+[![LIVE DEMO](https://img.shields.io/badge/🚀_LIVE_DEMO-00B4D8?style=for-the-badge)](https://devigniter-ai-chatbot.vercel.app/)
 
 </td>
 </tr>
